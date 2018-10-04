@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "640996852514",
+    "firebase_url": "https://soil-testing-kenya.firebaseio.com",
+    "project_id": "soil-testing-kenya",
+    "storage_bucket": "soil-testing-kenya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640996852514:android:0ccce89235f4b4ec",
+        "android_client_info": {
+          "package_name": "com.example.anthony.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640996852514-6mh2ndljqml9fc6egfd1m1hiemmiaih0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5QUxwTefThF5fl-RM_jR_rcqiSncVRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
